@@ -1,6 +1,6 @@
 import React from "react";
 import {useDispatch} from 'react-redux'
-import { updateCart, deleteCart } from './CartHelper'
+import { updateCart, deleteCart } from './CartHelper1'
 export default function Shoppingcartitem({ event }) {
   const dispatch = useDispatch();
   return (

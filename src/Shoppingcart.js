@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useHistory } from "react-router-dom";
 import { useDispatch } from "react-redux"
 import CartStore from "./CartStore";
-import {clearCart} from "./CartHelper"
+import {clearCart} from "./CartHelper1"
 import Shoppingcartitem from "./Shoppingcartitem";
 
 export default function Shoppingcart() {

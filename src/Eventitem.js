@@ -1,7 +1,7 @@
 import React from "react";
 import {useDispatch} from "react-redux"
 import {useMutation} from "react-query";
-import {addCart} from "./CartHelper";
+import {addCart} from "./CartHelper1";
 
 export default function Eventitem({ event }) {
   const dispatch = useDispatch();
