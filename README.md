@@ -5,13 +5,28 @@ This project was created as a mentoring tool to demonstrate how to call APIs fro
 This simple React app fetches data from a demo API and displays it on the page. It covers:
 
 Using the Fetch API to make requests to an API
+
 Managing state with React Hooks
+
 Displaying data fetched from an API
+
 Basic error handling
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### Installation
+Clone the repo:
+
+Copy code
+
+git clone https://github.com/yourname/call-api-with-react.git
+Install dependencies:
+
+Copy code
+
+npm install
 
 ### `npm start`
 
