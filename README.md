@@ -1,6 +1,13 @@
-# Getting Started with Create React App
+# Call API with React
+This project was created as a mentoring tool to demonstrate how to call APIs from a React app.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Overview
+This simple React app fetches data from a demo API and displays it on the page. It covers:
+
+Using the Fetch API to make requests to an API
+Managing state with React Hooks
+Displaying data fetched from an API
+Basic error handling
 
 ## Available Scripts
 
