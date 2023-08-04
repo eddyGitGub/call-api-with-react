@@ -1,7 +1,7 @@
 # Call API with React
 This project was created as a mentoring tool to demonstrate how to call APIs from a React app.
 
-# Overview
+## Overview
 This simple React app fetches data from a demo API and displays it on the page. It covers:
 
 Using the Fetch API to make requests to an API
