@@ -16,12 +16,12 @@ Basic error handling
 
 In the project directory, you can run:
 
-### Installation
+### `Installation`
 Clone the repo:
 
 Copy code
 
-git clone https://github.com/yourname/call-api-with-react.git
+git clone https://github.com/eddyGitGub/call-api-with-react.git
 Install dependencies:
 
 Copy code
